@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 濯希</title>
+    <link>https://www.zhuoxi.me/tags/python/</link>
+    <description>Recent content in Python on 濯希</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.zhuoxi.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020 3月小结 - 为不可控的事情焦躁</title>
+      <link>https://www.zhuoxi.me/2019/10/2020-3%E6%9C%88%E5%B0%8F%E7%BB%93-%E4%B8%BA%E4%B8%8D%E5%8F%AF%E6%8E%A7%E7%9A%84%E4%BA%8B%E6%83%85%E7%84%A6%E8%BA%81/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhuoxi.me/2019/10/2020-3%E6%9C%88%E5%B0%8F%E7%BB%93-%E4%B8%BA%E4%B8%8D%E5%8F%AF%E6%8E%A7%E7%9A%84%E4%BA%8B%E6%83%85%E7%84%A6%E8%BA%81/</guid>
+      <description>整个三月都是焦躁的， 推荐三本旅行文学的书</description>
+    </item>
+    
+  </channel>
+</rss>
