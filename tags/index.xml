@@ -6,10 +6,28 @@
     <description>Recent content in Tags on 濯希</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 13:29:41 -0500</lastBuildDate>
     
 	<atom:link href="https://www.zhuoxi.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tag1</title>
+      <link>https://www.zhuoxi.me/tags/tag1/</link>
+      <pubDate>Thu, 07 Jan 2021 13:29:41 -0500</pubDate>
+      
+      <guid>https://www.zhuoxi.me/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://www.zhuoxi.me/tags/tag2/</link>
+      <pubDate>Thu, 07 Jan 2021 13:29:41 -0500</pubDate>
+      
+      <guid>https://www.zhuoxi.me/tags/tag2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>书评</title>
