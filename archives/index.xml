@@ -5,10 +5,6 @@
     <link>https://www.zhuoxi.me/archives/</link>
     <description>Recent content in Archives on 濯希</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    
-	<atom:link href="https://www.zhuoxi.me/archives/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-cn</language><atom:link href="https://www.zhuoxi.me/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

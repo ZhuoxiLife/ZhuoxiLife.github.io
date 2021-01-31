@@ -6,18 +6,24 @@
     <description>Recent content in Pages on 濯希</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 07 Jan 2021 13:29:41 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.zhuoxi.me/page/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 07 Jan 2021 20:37:14 -0500</lastBuildDate><atom:link href="https://www.zhuoxi.me/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>好物推荐</title>
+      <link>https://www.zhuoxi.me/goods/</link>
+      <pubDate>Thu, 07 Jan 2021 20:37:14 -0500</pubDate>
+      
+      <guid>https://www.zhuoxi.me/goods/</guid>
+      <description>&lt;p&gt;这里我会推荐我用过不错的产品。在三思过后，如果你喜欢，欢迎支持我并使用我的链接购买。&lt;/p&gt;</description>
+    </item>
     
     <item>
-      <title>FrinedLink</title>
-      <link>https://www.zhuoxi.me/page/frinedlink/</link>
-      <pubDate>Thu, 07 Jan 2021 13:29:41 -0500</pubDate>
+      <title>友情链接，大家们的博客</title>
+      <link>https://www.zhuoxi.me/friends/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.zhuoxi.me/page/frinedlink/</guid>
-      <description></description>
+      <guid>https://www.zhuoxi.me/friends/</guid>
+      <description>&lt;p&gt;谢谢你来看我的个人博客， 如果你也有博客，来跟我互换友情链接吧。
+让我们把浩瀚网络时空的节点联系起来。请参考以下格式， 或者用自己喜欢的格式。在底下留言， 或者去豆瓣，长毛象都可以。&lt;/p&gt;</description>
     </item>
     
   </channel>
